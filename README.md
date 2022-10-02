@@ -11,6 +11,7 @@
 - [Установка](#install)
 - [Использование](#usage)
 - [Пример](#example)
+- [Версии](#versions)
 - [Баги и обратная связь](#feedback)
 
 <a id="install"></a>
@@ -53,6 +54,9 @@ void loop(){
 }
 ```
 
+<a id="versions"></a>
+## Версии
+- v1.0 - релиз
 
 <a id="feedback"></a>
 ## Баги и обратная связь
